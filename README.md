@@ -1,6 +1,12 @@
-# hg_1_Bravo
-HackPR#1
+
+# Bravo
+- [ ] Alfa Daniel Figueroa  (Caracas) 
+- [X] Bravo Andres Urdaneta (Maracaibo)
 
 # Tipo de usuario
-- [ ] Alfa Daniel Figueroa (Caracas)
-- [X] Andres Urdaneta  (Maracaibo)
+- [ ] Alfa
+- [ ] Bravo 
+
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Hotfix
